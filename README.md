@@ -1,6 +1,4 @@
-[![Actions Status](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/workflows/build/badge.svg?branch=main)](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/actions?query=workflow%3Abuild+branch%3Amain)
-[![Actions Status](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/workflows/daily-sanity-master/badge.svg?event=schedule)](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/actions?query=workflow%3Abuild-test)
-[![Actions Status](https://github.com/SolaceDev/pubsubplus-kubernetes-quickstart/workflows/daily-sanity-master/badge.svg?event=schedule)](https://github.com/SolaceDev/pubsubplus-kubernetes-quickstart/actions?query=workflow%3Adaily-sanity-master)
+[![Actions Status](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/workflows/build-test/badge.svg?branch=main)](https://github.com/SolaceDev/pubsubplus-connector-gcp-ps-consumer/actions?query=workflow%3Abuild+branch%3Amain)
 
 # GCP Pub/Sub to Solace PubSub+ REST-Based Event Publishing Guide
 
